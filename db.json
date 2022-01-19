@@ -1,17 +1,10 @@
 {
   "bugs": [
     {
-      "description": "jfhei",
-      "type": "dotnet",
+      "description": "hello",
+      "type": "angular",
       "status": "Not resolved",
-      "id": 5153,
-      "date": "1/19/2022"
-    },
-    {
-      "description": "cdrf",
-      "type": "react",
-      "status": "Not resolved",
-      "id": 1353,
+      "id": 4908,
       "date": "1/19/2022"
     }
   ]

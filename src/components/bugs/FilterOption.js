@@ -1,16 +1,14 @@
-import React,{useEffect,useContext} from 'react'
-import { editBug, EDIT_BUG, removeBug, REMOVE_BUG, resolveBug, RESOLVE_BUG } from '../../redux/store';
+import React,{useContext} from 'react'
+import { editBug, removeBug, resolveBug, } from '../../redux/store';
 import { ACTIONS, STATUS } from './Constants'
-import {useSelector,useDispatch} from 'react-redux';
+import {useDispatch} from 'react-redux';
 import { SetInputContext } from './ListContainer';
 
 
 
 function FilterOption({bug,filter}) {
-
-   
     
-    const bugs=useSelector(state=>state.data);
+    
     const setInput=useContext(SetInputContext);
 
    
