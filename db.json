@@ -1,0 +1,18 @@
+{
+  "bugs": [
+    {
+      "description": "jfhei",
+      "type": "dotnet",
+      "status": "Not resolved",
+      "id": 5153,
+      "date": "1/19/2022"
+    },
+    {
+      "description": "cdrf",
+      "type": "react",
+      "status": "Not resolved",
+      "id": 1353,
+      "date": "1/19/2022"
+    }
+  ]
+}
